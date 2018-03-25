@@ -1,5 +1,5 @@
 title = "Ravi Sagar Hugo website"
-baseURL = "https://www.ravi.pro/hugo"
+baseURL = "https://www.ravi.pro/hugo/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
