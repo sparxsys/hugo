@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/my-first-post/</loc>
+    <loc>https://www.ravi.pro/hugo/posts/my-first-post/</loc>
     <lastmod>2018-03-25T10:48:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://www.ravi.pro/hugo/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://www.ravi.pro/hugo/posts/</loc>
     <lastmod>2018-03-25T10:48:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://www.ravi.pro/hugo/</loc>
     <lastmod>2018-03-25T10:48:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://www.ravi.pro/hugo/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
