@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hugo.ravi.pro/2018/03/26/just-announced-hugo-site/</loc>
+    <lastmod>2018-03-26T18:51:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hugo.ravi.pro/2018/03/26/wrong-formatting/</loc>
     <lastmod>2018-03-26T09:20:34+01:00</lastmod>
   </url>
@@ -47,7 +52,7 @@
   
   <url>
     <loc>https://hugo.ravi.pro/post/</loc>
-    <lastmod>2018-03-26T09:20:34+01:00</lastmod>
+    <lastmod>2018-03-26T18:51:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,7 +76,7 @@
   
   <url>
     <loc>https://hugo.ravi.pro/</loc>
-    <lastmod>2018-03-26T09:20:34+01:00</lastmod>
+    <lastmod>2018-03-26T18:51:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -23,7 +23,7 @@ theme = "hugo-icarus-theme"
     bio = "Author of Mastering JIRA 7 book. Loves #Jira and #Drupal. #Blogger, #ProblemSolver, #Atlassian #Consultant and #Technologist"
     location = "Earth"
     site_description = "Ravi Sagar Hugo site"
-    copyright  = "Copyright [Ravi Sagar](//http://www.ravisagar.in)."
+    copyright  = "Copyright [Ravi Sagar](http://www.ravisagar.in)."
     # avatar = "css/images/avatar.png"
     avatar = "http://www.ravisagar.in/sites/default/files/site-images/ravisagar.jpg"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
@@ -72,7 +72,7 @@ theme = "hugo-icarus-theme"
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "ravisagar"
+    github          = "sparxsys"
     gitlab          = ""
     bitbucket       = ""
     jsfiddle        = ""

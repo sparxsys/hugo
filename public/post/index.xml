@@ -5,10 +5,21 @@
     <link>https://hugo.ravi.pro/post/</link>
     <description>Recent content in Posts on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Mar 2018 09:20:34 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Mar 2018 18:51:10 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Just Announced Hugo Site</title>
+      <link>https://hugo.ravi.pro/2018/03/26/just-announced-hugo-site/</link>
+      <pubDate>Mon, 26 Mar 2018 18:51:10 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/03/26/just-announced-hugo-site/</guid>
+      <description>I just wrote a detailed blog on my main website www.ravisagar.in about setting up Hugo with Netlify. If you want to install Hugo and also host it for free then go and take a look at the blog mentioned below.
+http://www.ravisagar.in/blog/setting-hugo-static-website-and-continuously-deploying-it-netlify
+Have a nice day.</description>
+    </item>
     
     <item>
       <title>Wrong Formatting</title>
