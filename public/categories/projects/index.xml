@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ravi Sagar</title>
-    <link>https://keen-heisenberg-7ab094.netlify.com/categories/projects/</link>
+    <link>https://hugo.ravi.pro/categories/projects/</link>
     <description>Recent content in Projects on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 26 Mar 2018 09:20:34 +0100</lastBuildDate>
     
-	<atom:link href="https://keen-heisenberg-7ab094.netlify.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo.ravi.pro/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wrong Formatting</title>
-      <link>https://keen-heisenberg-7ab094.netlify.com/2018/03/26/wrong-formatting/</link>
+      <link>https://hugo.ravi.pro/2018/03/26/wrong-formatting/</link>
       <pubDate>Mon, 26 Mar 2018 09:20:34 +0100</pubDate>
       
-      <guid>https://keen-heisenberg-7ab094.netlify.com/2018/03/26/wrong-formatting/</guid>
-      <description>Checking the format</description>
+      <guid>https://hugo.ravi.pro/2018/03/26/wrong-formatting/</guid>
+      <description>I am using the Icarus theme and realized that when you do &amp;ldquo;hugo new post&amp;rdquo; command, it will generate the syntax for you for the post but it is slightly different from what hugo expects. For instance we have to use either equal to sign or colon consistently in one post. We can mix them.</description>
     </item>
     
   </channel>

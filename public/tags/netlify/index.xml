@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netlify on Ravi Sagar</title>
-    <link>https://keen-heisenberg-7ab094.netlify.com/tags/netlify/</link>
+    <link>https://hugo.ravi.pro/tags/netlify/</link>
     <description>Recent content in Netlify on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 26 Mar 2018 08:19:03 +0100</lastBuildDate>
     
-	<atom:link href="https://keen-heisenberg-7ab094.netlify.com/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo.ravi.pro/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deploying on Netlify</title>
-      <link>https://keen-heisenberg-7ab094.netlify.com/2018/03/26/deploying-on-netlify/</link>
+      <link>https://hugo.ravi.pro/2018/03/26/deploying-on-netlify/</link>
       <pubDate>Mon, 26 Mar 2018 08:19:03 +0100</pubDate>
       
-      <guid>https://keen-heisenberg-7ab094.netlify.com/2018/03/26/deploying-on-netlify/</guid>
+      <guid>https://hugo.ravi.pro/2018/03/26/deploying-on-netlify/</guid>
       <description>Just learned how to deploy the site from hugo to netlify, it will automatically build and deploy your site from your github account master branch. Amazing.</description>
     </item>
     
