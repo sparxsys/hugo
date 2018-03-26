@@ -5,4 +5,6 @@ menu = "main"
 disable_comments = true
 +++
 
-Add some information about yourself.
+I am an Atlassian Consultant and Drupal Expert. In my free time I usually roam around with my camera (My Blackberry Passport) and take pictures of anything that generates curiosity in me.
+
+More here: http://www.ravisagar.in
