@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Mylife on Ravi Sagar</title>
+    <link>https://hugo.ravi.pro/tags/random-mylife/</link>
+    <description>Recent content in Random Mylife on Ravi Sagar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Mar 2018 18:33:45 +0100</lastBuildDate>
+    
+	<atom:link href="https://hugo.ravi.pro/tags/random-mylife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In the Train.</title>
+      <link>https://hugo.ravi.pro/2018/03/27/in-the-train./</link>
+      <pubDate>Tue, 27 Mar 2018 18:33:45 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/03/27/in-the-train./</guid>
+      <description>Today I was reading about various static site generators. So far I like Hugo. Let us see how it goes. I will most likely not replace my main blog www.ravisagar.in with any static site generator anytime soon but I really like this ability to create content easily. Going good so far.
+One thing is sure that I will keep this https://hugo.ravi.pro domain active.</description>
+    </item>
+    
+  </channel>
+</rss>
