@@ -1,5 +1,5 @@
 ---
-title: "In the Train."
+title: "In the Train"
 date: 2018-03-27T18:33:45+01:00
 draft: false
 categories: ["Personal"]
