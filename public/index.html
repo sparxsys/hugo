@@ -21,6 +21,8 @@
     <link rel="stylesheet" href="https://hugo.ravi.pro/css/monokai.css">
     <link rel="stylesheet" href="https://hugo.ravi.pro/fancybox/jquery.fancybox.css">
     
+    <link rel="stylesheet" href="https://hugo.ravi.pro/custom.css">
+    
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     <meta property="og:title" content="Ravi Sagar" />
@@ -30,7 +32,7 @@
 
 
 
-<meta property="og:updated_time" content="2018-03-27T18:33:45&#43;01:00"/>
+<meta property="og:updated_time" content="2018-03-28T08:18:25&#43;01:00"/>
 
 
 
@@ -176,12 +178,12 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        5
+        6
         <span>Posts</span>
       </div>
       <div class="article-info-block">
         
-          5
+          10
         
         <span>
             Tags
@@ -276,9 +278,172 @@
         </a>
 
         <header class="article-header">
-    <a href="https://hugo.ravi.pro/2018/03/27/in-the-train./">
+    <a href="https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/">
     <h1 class="article-title" itemprop="name">
-        In the Train.
+        Common Mistakes Jira Atlassian
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-03-28 08:18:25 &#43;0100 BST" itemprop="datePublished">2018-03-28</time>
+            &middot;
+            28
+            words
+            &middot;
+            1
+            minute read
+        </div>
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/categories/atlassian">Atlassian</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/jira">Jira</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/tips">Tips</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/mistakes">Mistakes</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/video">Video</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/youtube">Youtube</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                Few days back I made this video which I posted on youtube about common mistakes new Jira administrators make.
+http://www.ravisagar.in/notes/top-3-mistakes-new-jira-administrators
+Please go and take a look at it.
+            </p>
+            <p class="article-more-link">
+                <a href="https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/">
+                    Read more
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a data-url="https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/" data-id="da140801dcfb2f0d1632ca5d710251f4" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+    <a href="https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://hugo.ravi.pro/2018/03/27/in-the-train/">
+    <h1 class="article-title" itemprop="name">
+        In the Train
     </h1>
     </a>
     <div class="article-meta">
@@ -331,18 +496,18 @@
 One thing is sure that I will keep this https://hugo.ravi.pro domain active.
             </p>
             <p class="article-more-link">
-                <a href="https://hugo.ravi.pro/2018/03/27/in-the-train./">
+                <a href="https://hugo.ravi.pro/2018/03/27/in-the-train/">
                     Read more
                 </a>
             </p>
         </div>
         <footer class="article-footer">
-    <a data-url="https://hugo.ravi.pro/2018/03/27/in-the-train./" data-id="d767c3414222ef5c95cf0d3a474cd9b5" class="article-share-link">
+    <a data-url="https://hugo.ravi.pro/2018/03/27/in-the-train/" data-id="d767c3414222ef5c95cf0d3a474cd9b5" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
     </a>
     
-    <a href="https://hugo.ravi.pro/2018/03/27/in-the-train./#disqus_thread" class="article-comment-link">
+    <a href="https://hugo.ravi.pro/2018/03/27/in-the-train/#disqus_thread" class="article-comment-link">
         Comments
     </a>
     
@@ -990,7 +1155,33 @@ Have a nice day.
             
             <li>
                 <div class="item-thumbnail">
-                    <a href="https://hugo.ravi.pro/2018/03/27/in-the-train./" class="thumbnail">
+                    <a href="https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        
+                        <a class="article-category-link" href="https://hugo.ravi.pro/categories/atlassian">
+                        Atlassian
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/" class="title">Common Mistakes Jira Atlassian</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-03-28 08:18:25 &#43;0100 BST" itemprop="datePublished">2018-03-28</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="https://hugo.ravi.pro/2018/03/27/in-the-train/" class="thumbnail">
                     
                         <span class="thumbnail-image thumbnail-none"></span>
                     
@@ -1007,7 +1198,7 @@ Have a nice day.
                     </p>
                     
                     
-                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/03/27/in-the-train./" class="title">In the Train.</a></p>
+                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/03/27/in-the-train/" class="title">In the Train</a></p>
                     <p class="item-date">
                         <time datetime="2018-03-27 18:33:45 &#43;0100 BST" itemprop="datePublished">2018-03-27</time>
                     </p>
@@ -1083,23 +1274,6 @@ Have a nice day.
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://hugo.ravi.pro/2018/03/25/my-first-post/" class="thumbnail">
-                    
-                        <span class="thumbnail-image thumbnail-none"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/03/25/my-first-post/" class="title">My First Post</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-03-25 11:42:51 &#43;0100 BST" itemprop="datePublished">2018-03-25</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1112,6 +1286,14 @@ Have a nice day.
     <h3 class="widget-title">Categories</h3>
     <div class="widget">
         <ul class="category-list">
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://hugo.ravi.pro/categories/atlassian">
+                    atlassian
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
             
             <li class="category-list-item">
                 
@@ -1172,6 +1354,22 @@ Have a nice day.
             
             <li class="category-list-item">
                 
+                <a class="category-list-link" href="https://hugo.ravi.pro/tags/jira">
+                    jira
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://hugo.ravi.pro/tags/mistakes">
+                    mistakes
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
                 <a class="category-list-link" href="https://hugo.ravi.pro/tags/netlify">
                     netlify
                 </a>
@@ -1190,6 +1388,30 @@ Have a nice day.
                 
                 <a class="category-list-link" href="https://hugo.ravi.pro/tags/random-mylife">
                     random-mylife
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://hugo.ravi.pro/tags/tips">
+                    tips
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://hugo.ravi.pro/tags/video">
+                    video
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://hugo.ravi.pro/tags/youtube">
+                    youtube
                 </a>
                 <span class="category-list-count">1</span>
             </li>
@@ -1217,6 +1439,12 @@ Have a nice day.
         <a href="https://hugo.ravi.pro/tags/hugo" style="font-size: 12px;">hugo</a>
         
         
+        <a href="https://hugo.ravi.pro/tags/jira" style="font-size: 12px;">jira</a>
+        
+        
+        <a href="https://hugo.ravi.pro/tags/mistakes" style="font-size: 12px;">mistakes</a>
+        
+        
         <a href="https://hugo.ravi.pro/tags/netlify" style="font-size: 12px;">netlify</a>
         
         
@@ -1224,6 +1452,15 @@ Have a nice day.
         
         
         <a href="https://hugo.ravi.pro/tags/random-mylife" style="font-size: 12px;">random-mylife</a>
+        
+        
+        <a href="https://hugo.ravi.pro/tags/tips" style="font-size: 12px;">tips</a>
+        
+        
+        <a href="https://hugo.ravi.pro/tags/video" style="font-size: 12px;">video</a>
+        
+        
+        <a href="https://hugo.ravi.pro/tags/youtube" style="font-size: 12px;">youtube</a>
         
     </div>
 </div>

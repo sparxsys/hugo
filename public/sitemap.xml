@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugo.ravi.pro/2018/03/27/in-the-train./</loc>
+    <loc>https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/2018/03/27/in-the-train/</loc>
     <lastmod>2018-03-27T18:33:45+01:00</lastmod>
   </url>
   
@@ -33,7 +38,14 @@
   </url>
   
   <url>
+    <loc>https://hugo.ravi.pro/categories/atlassian/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hugo.ravi.pro/categories/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,6 +58,18 @@
   <url>
     <loc>https://hugo.ravi.pro/tags/hugo/</loc>
     <lastmod>2018-03-26T09:20:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/jira/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/mistakes/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,7 +87,7 @@
   
   <url>
     <loc>https://hugo.ravi.pro/post/</loc>
-    <lastmod>2018-03-27T18:33:45+01:00</lastmod>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,13 +117,31 @@
   
   <url>
     <loc>https://hugo.ravi.pro/</loc>
-    <lastmod>2018-03-27T18:33:45+01:00</lastmod>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/tags/</loc>
     <lastmod>2018-03-26T09:20:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/tips/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/video/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/youtube/</loc>
+    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   

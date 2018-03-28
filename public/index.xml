@@ -6,17 +6,28 @@
     <description>Recent content on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Mar 2018 18:33:45 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Mar 2018 08:18:25 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>In the Train.</title>
-      <link>https://hugo.ravi.pro/2018/03/27/in-the-train./</link>
+      <title>Common Mistakes Jira Atlassian</title>
+      <link>https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/</link>
+      <pubDate>Wed, 28 Mar 2018 08:18:25 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/</guid>
+      <description>Few days back I made this video which I posted on youtube about common mistakes new Jira administrators make.
+http://www.ravisagar.in/notes/top-3-mistakes-new-jira-administrators
+Please go and take a look at it.</description>
+    </item>
+    
+    <item>
+      <title>In the Train</title>
+      <link>https://hugo.ravi.pro/2018/03/27/in-the-train/</link>
       <pubDate>Tue, 27 Mar 2018 18:33:45 +0100</pubDate>
       
-      <guid>https://hugo.ravi.pro/2018/03/27/in-the-train./</guid>
+      <guid>https://hugo.ravi.pro/2018/03/27/in-the-train/</guid>
       <description>Today I was reading about various static site generators. So far I like Hugo. Let us see how it goes. I will most likely not replace my main blog www.ravisagar.in with any static site generator anytime soon but I really like this ability to create content easily. Going good so far.
 One thing is sure that I will keep this https://hugo.ravi.pro domain active.</description>
     </item>

@@ -30,6 +30,7 @@ theme = "hugo-icarus-theme"
     # will fallback to the avatar.
     gravatar = "ravisagar@gmail.com"
     logo = "css/images/logo.png"
+    # logo = "http://www.ravisagar.in/sites/default/files/ravisagar_logo_white_2.png"
     disable_mathjax = false # set to true to disable MathJax
 
     # define which types of pages should be shown. By default the type with the most regular pages
@@ -39,7 +40,7 @@ theme = "hugo-icarus-theme"
     date_format = "2006-01-02"
 
     # Add custom assets with their paths relative to the static folder
-	custom_css = []
+	custom_css = ["custom.css"]
 	custom_js  = []
 
 # Create custom menu entries by defining a label and a link for

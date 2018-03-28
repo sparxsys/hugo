@@ -19,3 +19,16 @@ Mathematical equations in form of LaTeX or MathML code can be rendered with the 
 $$ z = r \cdot (\sin{\phi} + \cos{\phi} \cdot i) $$
 
 You can also print formulas inline: $a^2 + b^2 = c^2$. In this case wrap the formula only once with `$`.
+
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+
+
+     $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+
+
+
+
+
+
