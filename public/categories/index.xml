@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Mar 2018 08:18:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Mar 2018 20:26:44 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Atlassian</title>
       <link>https://hugo.ravi.pro/categories/atlassian/</link>
-      <pubDate>Wed, 28 Mar 2018 08:18:25 +0100</pubDate>
+      <pubDate>Wed, 28 Mar 2018 20:26:44 +0100</pubDate>
       
       <guid>https://hugo.ravi.pro/categories/atlassian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://hugo.ravi.pro/categories/devops/</link>
+      <pubDate>Wed, 28 Mar 2018 20:26:44 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/categories/devops/</guid>
       <description></description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jira on Ravi Sagar</title>
-    <link>https://hugo.ravi.pro/tags/jira/</link>
-    <description>Recent content in Jira on Ravi Sagar</description>
+    <title>Bamboo on Ravi Sagar</title>
+    <link>https://hugo.ravi.pro/tags/bamboo/</link>
+    <description>Recent content in Bamboo on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Mar 2018 20:26:44 +0100</lastBuildDate>
     
-	<atom:link href="https://hugo.ravi.pro/tags/jira/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo.ravi.pro/tags/bamboo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://hugo.ravi.pro/2018/03/28/webinar-went-well/</guid>
       <description>Feel good today as the webinar that I as working on for many days went really well. Feeling happy.
 http://www.ravisagar.in/notes/few-spots-left-i-am-doing-webinar-devops-using-atlassian-toolset-28th-march-2018-3-pm-gmt</description>
-    </item>
-    
-    <item>
-      <title>Common Mistakes Jira Atlassian</title>
-      <link>https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/</link>
-      <pubDate>Wed, 28 Mar 2018 08:18:25 +0100</pubDate>
-      
-      <guid>https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/</guid>
-      <description>Few days back I made this video which I posted on youtube about common mistakes new Jira administrators make.
-http://www.ravisagar.in/notes/top-3-mistakes-new-jira-administrators
-Please go and take a look at it.</description>
     </item>
     
   </channel>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hugo.ravi.pro/2018/03/28/webinar-went-well/</loc>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hugo.ravi.pro/2018/03/28/common-mistakes-jira-atlassian/</loc>
     <lastmod>2018-03-28T08:18:25+01:00</lastmod>
   </url>
@@ -39,13 +44,37 @@
   
   <url>
     <loc>https://hugo.ravi.pro/categories/atlassian/</loc>
-    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/bamboo/</loc>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/bitbucket/</loc>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/categories/</loc>
-    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/confluence/</loc>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/categories/devops/</loc>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,7 +92,7 @@
   
   <url>
     <loc>https://hugo.ravi.pro/tags/jira/</loc>
-    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,7 +116,7 @@
   
   <url>
     <loc>https://hugo.ravi.pro/post/</loc>
-    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,13 +146,13 @@
   
   <url>
     <loc>https://hugo.ravi.pro/</loc>
-    <lastmod>2018-03-28T08:18:25+01:00</lastmod>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/tags/</loc>
-    <lastmod>2018-03-26T09:20:34+01:00</lastmod>
+    <lastmod>2018-03-28T20:26:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
