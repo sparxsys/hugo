@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ravi Sagar</title>
-    <link>https://hugo.ravi.pro/categories/projects/</link>
-    <description>Recent content in Projects on Ravi Sagar</description>
+    <title>Indieweb on Ravi Sagar</title>
+    <link>https://hugo.ravi.pro/tags/indieweb/</link>
+    <description>Recent content in Indieweb on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Mar 2018 17:36:52 +0100</lastBuildDate>
     
-	<atom:link href="https://hugo.ravi.pro/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo.ravi.pro/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>I just finished working on my brand new Known CMS based site which is fully compliant with #IndieWeb prinicples.
 So the site is this: http://www.sagar.ravi.pro/
 The site supports webmentions. I also connected it to my Linkedin and Foursquare accounts. I really enjoy the feature of Checkin in Known site and that can be syndicated to my Foursquare account. Although it is not perfect as the location that was checked in on Foursquare was not 100% accurate but anyways it is a good start.</description>
-    </item>
-    
-    <item>
-      <title>Wrong Formatting</title>
-      <link>https://hugo.ravi.pro/2018/03/26/wrong-formatting/</link>
-      <pubDate>Mon, 26 Mar 2018 09:20:34 +0100</pubDate>
-      
-      <guid>https://hugo.ravi.pro/2018/03/26/wrong-formatting/</guid>
-      <description>I am using the Icarus theme and realized that when you do &amp;ldquo;hugo new post&amp;rdquo; command, it will generate the syntax for you for the post but it is slightly different from what hugo expects. For instance we have to use either equal to sign or colon consistently in one post. We can mix them.</description>
     </item>
     
   </channel>

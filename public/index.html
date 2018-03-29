@@ -32,7 +32,7 @@
 
 
 
-<meta property="og:updated_time" content="2018-03-28T20:26:44&#43;01:00"/>
+<meta property="og:updated_time" content="2018-03-29T17:36:52&#43;01:00"/>
 
 
 
@@ -178,12 +178,12 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        7
+        8
         <span>Posts</span>
       </div>
       <div class="article-info-block">
         
-          13
+          15
         
         <span>
             Tags
@@ -271,6 +271,161 @@
     <section id="main">
     
     
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/">
+    <h1 class="article-title" itemprop="name">
+        Introducing My Known Site
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-03-29 17:36:52 &#43;0100 BST" itemprop="datePublished">2018-03-29</time>
+            &middot;
+            83
+            words
+            &middot;
+            1
+            minute read
+        </div>
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/categories/projects">Projects</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/categories/programming">Programming</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/known">Known</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/indieweb">IndieWeb</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                I just finished working on my brand new Known CMS based site which is fully compliant with #IndieWeb prinicples.
+So the site is this: http://www.sagar.ravi.pro/
+The site supports webmentions. I also connected it to my Linkedin and Foursquare accounts. I really enjoy the feature of Checkin in Known site and that can be syndicated to my Foursquare account. Although it is not perfect as the location that was checked in on Foursquare was not 100% accurate but anyways it is a good start.
+            </p>
+            <p class="article-more-link">
+                <a href="https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/">
+                    Read more
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a data-url="https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/" data-id="a6dc9c28712eaa483db3f21506caa621" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+    <a href="https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
 
 <article class="article article-type-post" itemscope="" itemprop="blogPost">
     <div class="article-inner">
@@ -1317,6 +1472,32 @@ Have a nice day.
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        
+                        <a class="article-category-link" href="https://hugo.ravi.pro/categories/projects">
+                        Projects
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/" class="title">Introducing My Known Site</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-03-29 17:36:52 &#43;0100 BST" itemprop="datePublished">2018-03-29</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://hugo.ravi.pro/2018/03/28/webinar-went-well/" class="thumbnail">
                     
                         <span class="thumbnail-image thumbnail-none"></span>
@@ -1410,32 +1591,6 @@ Have a nice day.
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://hugo.ravi.pro/2018/03/26/wrong-formatting/" class="thumbnail">
-                    
-                        <span class="thumbnail-image thumbnail-none"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        
-                        <a class="article-category-link" href="https://hugo.ravi.pro/categories/programming">
-                        Programming
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/03/26/wrong-formatting/" class="title">Wrong Formatting</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-03-26 09:20:34 &#43;0100 BST" itemprop="datePublished">2018-03-26</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1478,7 +1633,7 @@ Have a nice day.
                 <a class="category-list-link" href="https://hugo.ravi.pro/categories/programming">
                     programming
                 </a>
-                <span class="category-list-count">2</span>
+                <span class="category-list-count">3</span>
             </li>
             
             <li class="category-list-item">
@@ -1486,7 +1641,7 @@ Have a nice day.
                 <a class="category-list-link" href="https://hugo.ravi.pro/categories/projects">
                     projects
                 </a>
-                <span class="category-list-count">1</span>
+                <span class="category-list-count">2</span>
             </li>
             
         </ul>
@@ -1548,10 +1703,26 @@ Have a nice day.
             
             <li class="category-list-item">
                 
+                <a class="category-list-link" href="https://hugo.ravi.pro/tags/indieweb">
+                    indieweb
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
                 <a class="category-list-link" href="https://hugo.ravi.pro/tags/jira">
                     jira
                 </a>
                 <span class="category-list-count">2</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://hugo.ravi.pro/tags/known">
+                    known
+                </a>
+                <span class="category-list-count">1</span>
             </li>
             
             <li class="category-list-item">
@@ -1642,7 +1813,13 @@ Have a nice day.
         <a href="https://hugo.ravi.pro/tags/hugo" style="font-size: 12px;">hugo</a>
         
         
+        <a href="https://hugo.ravi.pro/tags/indieweb" style="font-size: 12px;">indieweb</a>
+        
+        
         <a href="https://hugo.ravi.pro/tags/jira" style="font-size: 12px;">jira</a>
+        
+        
+        <a href="https://hugo.ravi.pro/tags/known" style="font-size: 12px;">known</a>
         
         
         <a href="https://hugo.ravi.pro/tags/mistakes" style="font-size: 12px;">mistakes</a>

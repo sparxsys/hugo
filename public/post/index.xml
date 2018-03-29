@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Mar 2018 20:26:44 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Mar 2018 17:36:52 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing My Known Site</title>
+      <link>https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/</link>
+      <pubDate>Thu, 29 Mar 2018 17:36:52 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/</guid>
+      <description>I just finished working on my brand new Known CMS based site which is fully compliant with #IndieWeb prinicples.
+So the site is this: http://www.sagar.ravi.pro/
+The site supports webmentions. I also connected it to my Linkedin and Foursquare accounts. I really enjoy the feature of Checkin in Known site and that can be syndicated to my Foursquare account. Although it is not perfect as the location that was checked in on Foursquare was not 100% accurate but anyways it is a good start.</description>
+    </item>
     
     <item>
       <title>Webinar Went Well</title>
