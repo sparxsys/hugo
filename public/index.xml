@@ -6,10 +6,23 @@
     <description>Recent content on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Mar 2018 17:36:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Apr 2018 21:32:05 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Checking Hugo</title>
+      <link>https://hugo.ravi.pro/2018/04/02/checking-hugo/</link>
+      <pubDate>Mon, 02 Apr 2018 21:32:05 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/04/02/checking-hugo/</guid>
+      <description>Easter weekend and break was amazing. Just implemented live GPS tracking on my site.
+http://www.ravisagar.in/blog/displaying-my-live-gps-location-site-and-also-my-battery-status http://www.ravisagar.in/notes/implemented-gps-based-location-checkins-my-drupal-site-indieweb
+Also made one video.
+http://www.ravisagar.in/notes/setup-hugo-website-and-deploy-it-less-30-minutes
+Have a nice day.</description>
+    </item>
     
     <item>
       <title>Introducing My Known Site</title>

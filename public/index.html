@@ -32,7 +32,7 @@
 
 
 
-<meta property="og:updated_time" content="2018-03-29T17:36:52&#43;01:00"/>
+<meta property="og:updated_time" content="2018-04-02T21:32:05&#43;01:00"/>
 
 
 
@@ -178,7 +178,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        8
+        9
         <span>Posts</span>
       </div>
       <div class="article-info-block">
@@ -271,6 +271,159 @@
     <section id="main">
     
     
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://hugo.ravi.pro/2018/04/02/checking-hugo/">
+    <h1 class="article-title" itemprop="name">
+        Checking Hugo
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-04-02 21:32:05 &#43;0100 BST" itemprop="datePublished">2018-04-02</time>
+            &middot;
+            25
+            words
+            &middot;
+            1
+            minute read
+        </div>
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/categories/personal">personal</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/indieweb">Indieweb</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://hugo.ravi.pro/tags/hugo">Hugo</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                Easter weekend and break was amazing. Just implemented live GPS tracking on my site.
+http://www.ravisagar.in/blog/displaying-my-live-gps-location-site-and-also-my-battery-status http://www.ravisagar.in/notes/implemented-gps-based-location-checkins-my-drupal-site-indieweb
+Also made one video.
+http://www.ravisagar.in/notes/setup-hugo-website-and-deploy-it-less-30-minutes
+Have a nice day.
+            </p>
+            <p class="article-more-link">
+                <a href="https://hugo.ravi.pro/2018/04/02/checking-hugo/">
+                    Read more
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a data-url="https://hugo.ravi.pro/2018/04/02/checking-hugo/" data-id="bdd93689bba3e60c5917239878177421" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+    <a href="https://hugo.ravi.pro/2018/04/02/checking-hugo/#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
 
 <article class="article article-type-post" itemscope="" itemprop="blogPost">
     <div class="article-inner">
@@ -1472,6 +1625,32 @@ Have a nice day.
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://hugo.ravi.pro/2018/04/02/checking-hugo/" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        
+                        <a class="article-category-link" href="https://hugo.ravi.pro/categories/personal">
+                        personal
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/04/02/checking-hugo/" class="title">Checking Hugo</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-04-02 21:32:05 &#43;0100 BST" itemprop="datePublished">2018-04-02</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://hugo.ravi.pro/2018/03/29/introducing-my-known-site/" class="thumbnail">
                     
                         <span class="thumbnail-image thumbnail-none"></span>
@@ -1574,23 +1753,6 @@ Have a nice day.
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://hugo.ravi.pro/2018/03/26/just-announced-hugo-site/" class="thumbnail">
-                    
-                        <span class="thumbnail-image thumbnail-none"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://hugo.ravi.pro/2018/03/26/just-announced-hugo-site/" class="title">Just Announced Hugo Site</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-03-26 18:51:10 &#43;0100 BST" itemprop="datePublished">2018-03-26</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1625,7 +1787,7 @@ Have a nice day.
                 <a class="category-list-link" href="https://hugo.ravi.pro/categories/personal">
                     personal
                 </a>
-                <span class="category-list-count">1</span>
+                <span class="category-list-count">2</span>
             </li>
             
             <li class="category-list-item">
@@ -1698,7 +1860,7 @@ Have a nice day.
                 <a class="category-list-link" href="https://hugo.ravi.pro/tags/hugo">
                     hugo
                 </a>
-                <span class="category-list-count">2</span>
+                <span class="category-list-count">3</span>
             </li>
             
             <li class="category-list-item">
@@ -1706,7 +1868,7 @@ Have a nice day.
                 <a class="category-list-link" href="https://hugo.ravi.pro/tags/indieweb">
                     indieweb
                 </a>
-                <span class="category-list-count">1</span>
+                <span class="category-list-count">2</span>
             </li>
             
             <li class="category-list-item">
