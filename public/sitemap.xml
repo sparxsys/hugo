@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hugo.ravi.pro/2018/04/10/checking-hugo-still-working/</loc>
+    <lastmod>2018-04-10T08:20:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hugo.ravi.pro/2018/04/04/doing-some-design-changes/</loc>
     <lastmod>2018-04-04T08:28:10+01:00</lastmod>
   </url>
@@ -107,13 +112,13 @@
   
   <url>
     <loc>https://hugo.ravi.pro/tags/hugo/</loc>
-    <lastmod>2018-04-04T08:28:10+01:00</lastmod>
+    <lastmod>2018-04-10T08:20:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/tags/indieweb/</loc>
-    <lastmod>2018-04-02T21:32:05+01:00</lastmod>
+    <lastmod>2018-04-10T08:20:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,13 +148,13 @@
   
   <url>
     <loc>https://hugo.ravi.pro/categories/personal/</loc>
-    <lastmod>2018-04-02T21:32:05+01:00</lastmod>
+    <lastmod>2018-04-10T08:20:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/post/</loc>
-    <lastmod>2018-04-04T08:28:10+01:00</lastmod>
+    <lastmod>2018-04-10T08:20:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,7 +184,7 @@
   
   <url>
     <loc>https://hugo.ravi.pro/</loc>
-    <lastmod>2018-04-04T08:28:10+01:00</lastmod>
+    <lastmod>2018-04-10T08:20:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
