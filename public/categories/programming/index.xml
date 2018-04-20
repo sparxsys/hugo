@@ -6,10 +6,19 @@
     <description>Recent content in Programming on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Apr 2018 08:28:10 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 19:57:06 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another Post After Long</title>
+      <link>https://hugo.ravi.pro/2018/04/20/another-post-after-long/</link>
+      <pubDate>Fri, 20 Apr 2018 19:57:06 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/04/20/another-post-after-long/</guid>
+      <description>I am thinking of using this blog for writing some different kind of posts. Let&amp;rsquo;s see how it goes.</description>
+    </item>
     
     <item>
       <title>Doing Some Design Changes</title>
