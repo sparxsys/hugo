@@ -32,7 +32,7 @@
     <item>
       <title>Personal</title>
       <link>https://hugo.ravi.pro/categories/personal/</link>
-      <pubDate>Fri, 20 Apr 2018 19:57:06 +0100</pubDate>
+      <pubDate>Thu, 17 May 2018 17:45:20 +0100</pubDate>
       
       <guid>https://hugo.ravi.pro/categories/personal/</guid>
       <description></description>
@@ -53,6 +53,15 @@
       <pubDate>Thu, 29 Mar 2018 17:36:52 +0100</pubDate>
       
       <guid>https://hugo.ravi.pro/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://hugo.ravi.pro/categories/travel/</link>
+      <pubDate>Thu, 17 May 2018 17:45:20 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/categories/travel/</guid>
       <description></description>
     </item>
     
