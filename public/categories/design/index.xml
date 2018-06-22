@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Ravi Sagar</title>
+    <link>https://hugo.ravi.pro/categories/design/</link>
+    <description>Recent content in Design on Ravi Sagar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jun 2018 06:57:52 +0100</lastBuildDate>
+    
+	<atom:link href="https://hugo.ravi.pro/categories/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Change Theme Hugo</title>
+      <link>https://hugo.ravi.pro/2018/06/22/change-theme-hugo/</link>
+      <pubDate>Fri, 22 Jun 2018 06:57:52 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/06/22/change-theme-hugo/</guid>
+      <description>I am thinking of changing the Hugo theme. Actually writing this blog to test if Hugo site is still working.</description>
+    </item>
+    
+  </channel>
+</rss>

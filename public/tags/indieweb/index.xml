@@ -6,10 +6,19 @@
     <description>Recent content in Indieweb on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 May 2018 17:45:20 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jun 2018 06:57:52 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Change Theme Hugo</title>
+      <link>https://hugo.ravi.pro/2018/06/22/change-theme-hugo/</link>
+      <pubDate>Fri, 22 Jun 2018 06:57:52 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/06/22/change-theme-hugo/</guid>
+      <description>I am thinking of changing the Hugo theme. Actually writing this blog to test if Hugo site is still working.</description>
+    </item>
     
     <item>
       <title>Going to Shard</title>
