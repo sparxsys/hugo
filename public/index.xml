@@ -6,10 +6,19 @@
     <description>Recent content on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jun 2018 06:57:52 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 08:22:04 +0100</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Checking Builds</title>
+      <link>https://hugo.ravi.pro/2018/07/20/checking-builds/</link>
+      <pubDate>Fri, 20 Jul 2018 08:22:04 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/07/20/checking-builds/</guid>
+      <description>Just checking if I need to build the site locally first or not before pushing to netlify.</description>
+    </item>
     
     <item>
       <title>Change Theme Hugo</title>
