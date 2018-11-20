@@ -7,4 +7,6 @@ categories: ["personal", "programming"]
 ---
 I was wondering today which software or tool should I use for markdown and then I realised then I have few hugo sites like this where I can use markdown.
 
-Cool
+Cool.
+
+Very good.
