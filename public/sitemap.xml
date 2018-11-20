@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hugo.ravi.pro/2018/11/20/hugo-supports-markup/</loc>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/2018/09/26/september-post/</loc>
+    <lastmod>2018-09-26T18:54:41+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hugo.ravi.pro/2018/07/20/checking-builds/</loc>
     <lastmod>2018-07-20T08:22:04+01:00</lastmod>
   </url>
@@ -138,13 +148,13 @@
   
   <url>
     <loc>https://hugo.ravi.pro/tags/hugo/</loc>
-    <lastmod>2018-06-22T06:57:52+01:00</lastmod>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/tags/indieweb/</loc>
-    <lastmod>2018-06-22T06:57:52+01:00</lastmod>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,13 +184,13 @@
   
   <url>
     <loc>https://hugo.ravi.pro/categories/personal/</loc>
-    <lastmod>2018-06-22T06:57:52+01:00</lastmod>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/post/</loc>
-    <lastmod>2018-07-20T08:22:04+01:00</lastmod>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -192,7 +202,7 @@
   
   <url>
     <loc>https://hugo.ravi.pro/categories/programming/</loc>
-    <lastmod>2018-04-20T19:57:06+01:00</lastmod>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -210,13 +220,13 @@
   
   <url>
     <loc>https://hugo.ravi.pro/</loc>
-    <lastmod>2018-07-20T08:22:04+01:00</lastmod>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugo.ravi.pro/tags/summers/</loc>
-    <lastmod>2018-05-17T17:45:20+01:00</lastmod>
+    <lastmod>2018-11-20T16:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -229,6 +239,12 @@
   <url>
     <loc>https://hugo.ravi.pro/tags/the-shard/</loc>
     <lastmod>2018-05-17T17:45:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.ravi.pro/tags/theme/</loc>
+    <lastmod>2018-09-26T18:54:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,29 @@
     <description>Recent content in Hugo on Ravi Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jun 2018 06:57:52 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 16:52:39 +0000</lastBuildDate>
     
 	<atom:link href="https://hugo.ravi.pro/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Supports Markup</title>
+      <link>https://hugo.ravi.pro/2018/11/20/hugo-supports-markup/</link>
+      <pubDate>Tue, 20 Nov 2018 16:52:39 +0000</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/11/20/hugo-supports-markup/</guid>
+      <description>I was wondering today which software or tool should I use for markdown and then I realised then I have few hugo sites like this where I can use markdown.
+Cool</description>
+    </item>
+    
+    <item>
+      <title>September Post</title>
+      <link>https://hugo.ravi.pro/2018/09/26/september-post/</link>
+      <pubDate>Wed, 26 Sep 2018 18:54:41 +0100</pubDate>
+      
+      <guid>https://hugo.ravi.pro/2018/09/26/september-post/</guid>
+      <description>I almost forgot about this site. Posting after more than 2 months I guess.</description>
+    </item>
     
     <item>
       <title>Change Theme Hugo</title>
