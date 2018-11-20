@@ -21,12 +21,12 @@ footnotereturnlinkcontents = "↩"
 [params]
     # Tell me who you are
     author = "Ravi Sagar"
-    bio = "Author of Mastering JIRA 7 book. Loves #Jira and #Drupal. #Blogger, #ProblemSolver, #Atlassian #Consultant and #Technologist http://www.ravisagar.in"
+    bio = "Author of Mastering JIRA 7 book. Loves #Jira and #Drupal. #Blogger, #ProblemSolver, #Atlassian #Consultant and #Technologist https://www.ravisagar.in"
     location = "London, United Kingdom"
     site_description = "Ravi Sagar Hugo site"
-    copyright  = "Copyright [Ravi Sagar](http://www.ravisagar.in)."
+    copyright  = "Copyright [Ravi Sagar](https://www.ravisagar.in)."
     # avatar = "css/images/avatar.png"
-    avatar = "http://www.ravisagar.in/sites/default/files/site-images/ravisagar.jpg"
+    avatar = "https://www.ravisagar.in/sites/default/files/site-images/ravisagar.jpg"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
     gravatar = "ravisagar@gmail.com"
